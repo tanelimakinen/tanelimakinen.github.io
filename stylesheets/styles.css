@@ -26,17 +26,19 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  /*color:#393939;*/
+  color:#222;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  /*color:#494949;*/
+  color:#222;
 }
 
 a {
   /*--color:#39c;
   font-weight:400;*/
-  color:#595959;
+  color:#393939;
   font-weight:700;
   text-decoration:none;
 }
@@ -142,7 +144,7 @@ header ul a {
 }
 
 strong {
-  color:#595959;
+  color:#393939;
   font-weight:700;
 }
 
