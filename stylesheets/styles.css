@@ -162,8 +162,7 @@ header ul li + li + li {
 header ul a strong {
   font-size:14px;
   display:block;
-  /*color:#222;*/
-  color:#393939;
+  color:#222;
 }
 
 section {
