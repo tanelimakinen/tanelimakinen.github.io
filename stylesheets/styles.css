@@ -39,9 +39,10 @@ h3, h4, h5, h6 {
 a {
   /*--color:#39c;
   font-weight:normal;*/
-  color:#222;
+  color:#393939;
   font-weight:normal;
   text-decoration:none;
+  font-style:oblique;
 }
 
 a small {
