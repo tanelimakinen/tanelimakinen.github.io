@@ -40,8 +40,9 @@ a {
   /*--color:#39c;
   font-weight:400;*/
   color:#393939;
-  font-weight:700;
+  font-weight:300;
   text-decoration:none;
+  font-style:oblique;
 }
 
 a small {
