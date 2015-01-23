@@ -5,7 +5,7 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   /*color:#777;*/
   color:#393939;
-  font-weight:300;
+  font-weight:normal;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -38,9 +38,9 @@ h3, h4, h5, h6 {
 
 a {
   /*--color:#39c;
-  font-weight:400;*/
+  font-weight:normal;*/
   color:#393939;
-  font-weight:700;
+  font-weight:bold;
   text-decoration:none;
 }
 
@@ -90,7 +90,7 @@ th, td {
 
 dt {
   color:#444;
-  font-weight:700;
+  font-weight:bold;
 }
 
 th {
@@ -145,8 +145,8 @@ header ul a {
 }
 
 strong {
-  color:#393939;
-  font-weight:700;
+  color:#222;
+  font-weight:bold;
 }
 
 header ul li + li {
